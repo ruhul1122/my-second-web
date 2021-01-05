@@ -1,0 +1,87 @@
+
+ body{
+
+    font-family: 'Arvo', serif;
+
+
+ }
+
+
+.top-header{
+
+  height: 600px;
+
+
+}
+
+.half-width{
+
+  width: 32%;
+  float: left;
+  margin: 5%;
+  padding: 3%;
+  
+}
+
+ .design1{
+ 
+  color: darkgrey;
+
+}
+
+.design2{
+
+    color: rgb(50, 184, 79);
+}
+
+#button1{
+
+  text-decoration: none;
+  color: white;
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.second-layer{
+
+
+  height: 600px;
+
+}
+
+.half1-width{
+
+width: 42%;
+float: left;
+margin: 1%;
+padding: 2%;
+text-align: justify;
+
+
+}
+
+.h1-design{
+
+ color: teal;
+
+}
+
+#button-design2{
+
+text-decoration: none;
+background-color: salmon;
+padding: 15px;
+border-radius: 5px;  
+margin-top: 10px;
+
+}
+
+.half1-width p{
+ 
+     color: rgb(96, 94, 240);
+     
+    
+    
+    
+    }
