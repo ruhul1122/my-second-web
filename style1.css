@@ -20,6 +20,7 @@
   float: left;
   margin: 5%;
   padding: 3%;
+  text-align: justify;
   
 }
 
@@ -46,7 +47,7 @@
 .second-layer{
 
 
-  height: 600px;
+  height: 900px;
 
 }
 
@@ -85,3 +86,122 @@ margin-top: 10px;
     
     
     }
+
+    .third-layer{
+
+     background-color: rgb(247, 244, 244);
+     width: 100%;
+     height: 700px;
+     padding: 12px;
+     margin-left: px;
+     clear: both;
+    }
+
+    .tlayer{
+    
+      text-align: center;
+     
+      
+    }
+
+    .tlayer span {
+    
+      color: rgb(53, 23, 160);
+    
+    } 
+
+    .three-image{
+
+
+     float: left;
+     width: 29%;
+     text-align: center;
+     margin: 2%;
+     background-color: white;
+     padding: 2px;
+     border-radius: 10px;
+     color: teal;
+     box-shadow: 2px 7px 3px 5px gray;
+     
+    }
+    
+     
+     
+
+    .image1234{
+
+  
+    width: 300px;
+    
+    }
+
+      .four-layer{
+
+     background-image: linear-gradient(40deg,rgb(194, 92, 52),rgb(94, 187, 81));
+     margin-left: 350px;
+     width: 50%;
+     height: 190px;
+     margin-top: 10%;
+     margin-right: 10%;
+     margin-bottom: 15%;
+     border-radius: 20px;
+
+      }
+      .follw-of{
+
+       width: 48%;
+       float: left;
+       margin-top: 60px;
+       margin-left: px;
+       
+
+
+      }
+
+       div{
+
+        text-align: center;
+
+       }
+
+
+     #buto{
+
+      text-decoration: none;
+      background-color: darkslategrey;
+      padding: 23px;
+      margin-bottom: 15%;
+      color: white;
+      box-shadow: 2px 4px 2px 1px gray;
+      float:right;
+      border-radius: 7px;
+     }
+     
+     .follw-of h1{
+      color: rgb(254, 254, 255);
+
+     }
+
+       #paragraph{
+
+       text-align: center;
+       color: rgb(71, 62, 62);
+
+       }
+
+       #aragraph{
+
+        text-align: center;
+        color: green;
+          
+       }
+
+
+  #header-1{
+
+   text-decoration: none;
+   color: grey;
+   padding-left: 1px;
+   margin-left: 90px;
+
+  }
